@@ -47,9 +47,7 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-- styled a <p> to give the illusion of a button
+- styled a paragraph to give the illusion of a button
 ``` css
 .button {
     border-radius: 4px;
@@ -63,11 +61,11 @@ Use this section to recap over some of your major learnings while working throug
 
 # Colors
 
-# Primary
+Primary
 
 - Green: hsl(75, 94%, 57%)
 
-# Neutral
+Neutral
 
 - White: hsl(0, 0%, 100%)
 - Grey: hsl(0, 0%, 20%)
@@ -76,7 +74,7 @@ Use this section to recap over some of your major learnings while working throug
 
 # Typography
 
-# Body Copy
+Body Copy
 
 - Font size (paragraph): 14px
 
